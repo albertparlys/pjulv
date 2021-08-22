@@ -82,7 +82,6 @@ mistune==0.8.3
 mkl-fft==1.0.0
 mkl-random==1.0.1
 more-itertools==4.1.0
-mpmath==1.0.0
 msgpack==0.5.6
 msgpack-python==0.5.6
 multipledispatch==0.5.0
@@ -122,7 +121,6 @@ py==1.10.0
 pycodestyle==2.4.0
 pycosat==0.6.3
 pycparser==2.18
-pycrypto==2.6.1
 pycurl==7.43.0.1
 pyflakes==1.6.0
 Pygments==2.7.4
